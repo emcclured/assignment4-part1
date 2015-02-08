@@ -1,0 +1,45 @@
+Start: Tue, 3 Feb 2015 18:00:00 -0800
+End: Tue, 3 Feb 2015 18:15:00 -0800
+Tasks:  Created offline assignment directories and log file.
+
+Start: Tue, 3 Feb 2015 18:15:00 -0800
+End: Tue, 3 Feb 2015 20:00:00 -0800
+Tasks:  Downloaded and installed PHP, mySql, and Apache Web Server for Linux to 
+allow for testing of assignment.
+
+Start: Wed, 4 Feb 2015 16:33:00 -0800
+End: Wed, 4 Feb 2015 16:40:00 -0800
+Tasks:  Create inital multtable.php, loopback.php, and login.php files.
+
+Start: Wed, 4 Feb 2015 16:45:00 -0800
+End: Wed, 4 Feb 2015 18:21:00 -0800
+Tasks:  Added basic code for multtable.php, loopback.php, and login.php files
+and brought them up in webbrowser to make sure they work.
+
+Start: Wed, 4 Feb 2015 18:21:00 -0800
+End: Wed, 4 Feb 2015 18:30:00 -0800
+Tasks:  Started focusing on on login.php.  Created files content1.php and content2.php.
+
+Start: Wed, 4 Feb 2015 18:31:00 -0800
+End: Wed, 4 Feb 2015 19:45:00 -0800
+Tasks:  Filled in login.php to fill in login name and login button.  Filled in basic code for 
+content1.php and content2.php.   Allow for POST/GET into content1.php and content2.php.
+Linked login.php and content1.php and content2.php. 
+
+Start: Wed, 4 Feb 2015 19:45:00 -0800
+End: Wed, 4 Feb 2015 22:28:00 -0800
+Tasks:  Added in cookie to login.php program to keep track of number of logins.
+
+Start: Thu, 5 Feb 2015 16:00:00 -0800
+End: Thu, 5 Feb 2015 17:28:00 -0800
+Tasks:  Added error checking for inputs into multtable.php
+
+Start: Thu, 5 Feb 2015 17:45:00 -0800
+End: Thu, 5 Feb 2015 20:20:00 -0800
+Tasks:  Added proper table output for multtable.php using for loops to dynamically build the 
+multiplication table.
+
+Start: Fri, 6 Feb 2015 16:00:00 -0800
+End: Fri, 6 Feb 2015 18:45:00 -0800
+Tasks:  Finish off loopback.php code
+
